@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/periodic-table/static/css/main.27498767.css",
+    "main.js": "/periodic-table/static/js/main.ad04b242.js",
+    "static/js/787.357bed1e.chunk.js": "/periodic-table/static/js/787.357bed1e.chunk.js",
+    "index.html": "/periodic-table/index.html",
+    "main.27498767.css.map": "/periodic-table/static/css/main.27498767.css.map",
+    "main.ad04b242.js.map": "/periodic-table/static/js/main.ad04b242.js.map",
+    "787.357bed1e.chunk.js.map": "/periodic-table/static/js/787.357bed1e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27498767.css",
+    "static/js/main.ad04b242.js"
+  ]
+}

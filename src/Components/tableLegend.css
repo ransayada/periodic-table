@@ -1,0 +1,34 @@
+.tableLegend {
+  border: 1px solid black;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 45%;
+}
+.alkaliMetals {
+  color: #dd4124;
+}
+.alkalineEarthMetals {
+  color: #efc050;
+}
+.lanthanides {
+  color: #dfcfbe;
+}
+.actinides {
+  color: #f7cac9;
+}
+.transitionMetals {
+  color: #9b2335;
+}
+.postTransitionMetals {
+  color: #55b4b0;
+}
+.metalloids {
+  color: #009b77;
+}
+.otherNonmetals {
+  color: #88b04b;
+}
+.nobleGases {
+  color: #7fcdcd;
+}
